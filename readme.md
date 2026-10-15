@@ -22,6 +22,16 @@ Proyek ini berisi skrip otomasi untuk melakukan pembaruan, konfigurasi keamanan 
 
 ---
 
+## 📸 Hasil Pengujian
+
+### 1. Eksekusi Skrip Otomasi di Terminal
+![Terminal Execution](docs/terminal-execution.png)
+
+### 2. Verifikasi Web Server dari Browser Windows
+![Web Server Success](docs/web-success.png)
+
+---
+
 ## 🚀 Cara Menjalankan Skrip
 
 1. Clone repositori ini ke server target:
