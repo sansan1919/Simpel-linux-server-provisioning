@@ -45,5 +45,5 @@ Proyek ini berisi skrip otomasi untuk melakukan pembaruan, konfigurasi keamanan 
 
 1. Clone repositori ini ke server target:
    ```bash
-   git clone [https://github.com/sansan1919/linux-server-provisioning.git](https://github.com/sansan1919/linux-server-provisioning.git)
+   git clone [https://github.com/sansan1919/Simpel-linux-server-provisioning.git](https://github.com/sansan1919/Simpel-linux-server-provisioning.git)
    cd linux-server-provisioning/scripts
