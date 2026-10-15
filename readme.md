@@ -34,7 +34,7 @@ Proyek ini berisi skrip otomasi untuk melakukan pembaruan, konfigurasi keamanan 
 ![Main Page](docs/halamanxterm.png)
 
 ### 2. Eksekusi Skrip Otomasi di Terminal
-![Terminal Execution](docs/terminal-execution.png)
+![Terminal Execution](docs/terminal.png)
 
 ### 3. Verifikasi Web Server dari Browser Windows
 ![Web Server Success](docs/web.png)
