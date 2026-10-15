@@ -30,12 +30,14 @@ Proyek ini berisi skrip otomasi untuk melakukan pembaruan, konfigurasi keamanan 
 ---
 
 ## 📸 Hasil Pengujian
+### 1. MobaXterm
+![Main Page](docs/halamanxterm.png)
 
-### 1. Eksekusi Skrip Otomasi di Terminal
+### 2. Eksekusi Skrip Otomasi di Terminal
 ![Terminal Execution](docs/terminal-execution.png)
 
-### 2. Verifikasi Web Server dari Browser Windows
-![Web Server Success](docs/"Screenshot 2026-10-15 195453.png")
+### 3. Verifikasi Web Server dari Browser Windows
+![Web Server Success](docs/web.png)
 
 ---
 
