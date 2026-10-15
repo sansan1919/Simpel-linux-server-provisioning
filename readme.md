@@ -35,7 +35,7 @@ Proyek ini berisi skrip otomasi untuk melakukan pembaruan, konfigurasi keamanan 
 ![Terminal Execution](docs/terminal-execution.png)
 
 ### 2. Verifikasi Web Server dari Browser Windows
-![Web Server Success](docs/web-success.png)
+![Web Server Success](docs/"Screenshot 2026-10-15 195453.png")
 
 ---
 
