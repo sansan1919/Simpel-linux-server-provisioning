@@ -4,12 +4,19 @@ Proyek ini berisi skrip otomasi untuk melakukan pembaruan, konfigurasi keamanan 
 
 ---
 
-## 📐 Arsitektur Lab Virtual
+## 💻 Tech Stack & Tools yang Digunakan
 
-- **Host OS:** Windows (Menggunakan MobaXterm sebagai SSH Client)
-- **Hypervisor:** Oracle VM VirtualBox (Bridged Adapter / Host-Only)
-- **Target OS:** Ubuntu Server LTS
-- **Management Tools:** Bash Scripting, UFW Firewall, Nginx Web Server
+| Kategori | Tools / Software | Keterangan & Tautan Unduhan |
+| :--- | :--- | :--- |
+| **Host OS** | Windows 11 | Sistem operasi utama pada komputer fisik. |
+| **Virtualization** | [Oracle VM VirtualBox](https://www.virtualbox.org/) | Digunakan untuk menjalankan mesin virtual Ubuntu Server. |
+| **Network Mode** | Bridged Adapter | Menghubungkan VM langsung ke jaringan lokal/internet. |
+| **Guest OS** | [Ubuntu Server LTS](https://ubuntu.com/download/server) | Sistem operasi server yang di-provisioning. |
+| **Remote Access** | [MobaXterm](https://mobaxterm.mobatek.net/) | Klien SSH dan terminal untuk meremote server dari Windows. |
+| **Automation** | Bash Scripting | Bahasa skrip untuk otomatisasi instalasi dan konfigurasi. |
+| **Security** | UFW (Uncomplicated Firewall) | Mengatur aturan lalu lintas jaringan (*firewall hardening*). |
+| **Web Server** | Nginx | Web server untuk menyajikan halaman uji coba. |
+| **Version Control** | [Git](https://git-scm.com/) & [GitHub](https://github.com/) | Penyimpanan kode sumber dan portofolio proyek. |
 
 ---
 
